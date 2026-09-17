@@ -1,0 +1,840 @@
+{
+  "products": [
+    {
+      "id": "prod-1",
+      "slug": "festive-crimson-red-gold-bridal-churi-set",
+      "nameBn": "রক্তলাল ও সোনালী ব্রাইডাল চুড়ি সেট",
+      "nameEn": "Festive Crimson Red & Antique Gold Bridal Thread Churi Set",
+      "price": 240,
+      "originalPrice": 270,
+      "discountPercent": 11,
+      "category": "festive-bridal",
+      "categoryBn": "উৎসব ও ব্রাইডাল",
+      "images": [
+        "https://res.cloudinary.com/mdml3orw/image/upload/v1789659554/1.png",
+        "https://res.cloudinary.com/mdml3orw/image/upload/v1789659555/3.png",
+        "https://res.cloudinary.com/mdml3orw/image/upload/v1789659556/9.png"
+      ],
+      "sizes": [
+        "2.4",
+        "2.6",
+        "2.8"
+      ],
+      "colors": [
+        "রক্তলাল ও অ্যান্টিক সোনালী (Crimson Red & Antique Gold)",
+        "সিঁদুর লাল ও ক্রিস্টাল (Scarlet Red & Crystal)",
+        "জেট ব্ল্যাক ও রুবি রেড (Jet Black & Ruby Red)"
+      ],
+      "colorImageMap": {
+        "রক্তলাল ও অ্যান্টিক সোনালী (Crimson Red & Antique Gold)": "https://res.cloudinary.com/mdml3orw/image/upload/v1789659554/1.png",
+        "সিঁদুর লাল ও ক্রিস্টাল (Scarlet Red & Crystal)": "https://res.cloudinary.com/mdml3orw/image/upload/v1789659555/3.png",
+        "জেট ব্ল্যাক ও রুবি রেড (Jet Black & Ruby Red)": "https://res.cloudinary.com/mdml3orw/image/upload/v1789659556/9.png"
+      },
+      "descriptionBn": "স্নেহময়ীর নিজস্ব কারিগরে তৈরি এক্সক্লুসিভ রক্তলাল ও অ্যান্টিক গোল্ডেন জারি কাজের এই ব্রাইডাল চুড়ি সেটটি যেকোনো বিয়ে, রিসেপশন কিংবা উৎসবে আপনার সাজকে করে তুলবে রাজকীয় ও অতুলনীয়। এতে ব্যবহার করা হয়েছে নিখুঁত সুতো, জরি ও টেকসই মেটালিক কোর।",
+      "descriptionEn": "Handcrafted exclusively by Snehomoyi artisans, this festive crimson red and antique gold beaded bridal churi set adds a regal traditional aesthetic to your wedding or festive attire.",
+      "featuresBn": [
+        "১০০% হাতে তৈরি নিখুঁত ফিনিশিং",
+        "উন্নতমানের কালার-ফাস্ট সুতা ও প্রিমিয়াম মেটালিক বেস",
+        "সাইজ অপশন: ২.৪, ২.৬ এবং ২.৮",
+        "হাতে পরতে অত্যন্ত আরামদায়ক ও হালকা ওজনের",
+        "স্নেহময়ী সিগনেচার গিফট প্যাকেজিং"
+      ],
+      "featuresEn": [
+        "100% handcrafted with precision finishing",
+        "Premium color-fast thread with metallic base",
+        "Available sizes: 2.4, 2.6, and 2.8",
+        "Lightweight and comfortable for long festive wear",
+        "Snehomoyi signature packaging"
+      ],
+      "specifications": {
+        "material": "হ্যান্ডক্রাফটেড থ্রেড, প্রিমিয়াম বিডস ও মেটাল রিং",
+        "bangleSizes": "2.4 (ছোট), 2.6 (মাঝারি), 2.8 (বড়)",
+        "origin": "ঢাকা, বাংলাদেশ (হাতে তৈরি)",
+        "customization": "সাইজ ও রঙ কাস্টমাইজেশন উপলব্ধ",
+        "processingTime": "হাতে তৈরির জন্য ২-৪ কর্মদিবস"
+      },
+      "isFeatured": true,
+      "inStock": true,
+      "stockQuantity": 45,
+      "facebookPostUrl": "https://www.facebook.com/profile.php?id=61591073385566"
+    },
+    {
+      "id": "prod-2",
+      "slug": "royal-blue-antique-gold-zari-churi-set",
+      "nameBn": "রয়েল ব্লু ও অ্যান্টিক জারি চুড়ি সেট",
+      "nameEn": "Royal Blue & Antique Gold Zari Handcrafted Bangle Set",
+      "price": 230,
+      "originalPrice": 260,
+      "discountPercent": 12,
+      "category": "bangle-sets",
+      "categoryBn": "চুড়ি সেট",
+      "images": [
+        "https://res.cloudinary.com/mdml3orw/image/upload/v1789659555/2.png",
+        "https://res.cloudinary.com/mdml3orw/image/upload/v1789659556/9.png",
+        "https://res.cloudinary.com/mdml3orw/image/upload/v1789659554/1.png"
+      ],
+      "sizes": [
+        "2.4",
+        "2.6",
+        "2.8"
+      ],
+      "colors": [
+        "রয়েল ব্লু ও সোনালী (Royal Blue & Gold)",
+        "জেট ব্ল্যাক ও রুবি (Jet Black & Ruby)",
+        "রক্তলাল ও অ্যান্টিক (Crimson Red & Antique)"
+      ],
+      "colorImageMap": {
+        "রয়েল ব্লু ও সোনালী (Royal Blue & Gold)": "https://res.cloudinary.com/mdml3orw/image/upload/v1789659555/2.png",
+        "জেট ব্ল্যাক ও রুবি (Jet Black & Ruby)": "https://res.cloudinary.com/mdml3orw/image/upload/v1789659556/9.png",
+        "রক্তলাল ও অ্যান্টিক (Crimson Red & Antique)": "https://res.cloudinary.com/mdml3orw/image/upload/v1789659554/1.png"
+      },
+      "descriptionBn": "অভিজাত রয়েল ব্লু ও অ্যান্টিক গোল্ডেন জরির মনোমুগ্ধকর সমন্বয়। সান্ধ্যকালীন জমকালো পার্টি, রিসেপশন কিংবা সিল্ক শাড়ির সাথে এই চুড়ি সেটটি দারুণভাবে মানিয়ে যায়।",
+      "descriptionEn": "Regal royal blue silk thread bangles paired with antique gold zari work. An eye-catching accessory designed for formal receptions and festive evenings.",
+      "featuresBn": [
+        "মাল্টি-পিসের প্রিমিয়াম চুড়ি সেট",
+        "ভিন্টেজ এন্টিক মেটালিক ফিনিশিং",
+        "গাঢ় ও উজ্জ্বল রাজকীয় নীল শেড",
+        "সাইজ: ২.৪, ২.৬ এবং ২.৮"
+      ],
+      "featuresEn": [
+        "Multi-piece stacked bangle collection",
+        "Vintage antique metallic finishing",
+        "Rich vibrant royal blue hue",
+        "Sizes: 2.4, 2.6, and 2.8"
+      ],
+      "specifications": {
+        "material": "হ্যান্ডমেড সিল্ক থ্রেড ও সোনালী জরি কারুকাজ",
+        "bangleSizes": "2.4, 2.6, 2.8",
+        "origin": "ঢাকা, বাংলাদেশ",
+        "customization": "উপলব্ধ",
+        "processingTime": "২-৪ দিন"
+      },
+      "isFeatured": true,
+      "inStock": true,
+      "stockQuantity": 30,
+      "facebookPostUrl": "https://www.facebook.com/profile.php?id=61591073385566"
+    },
+    {
+      "id": "prod-3",
+      "slug": "scarlet-red-crystal-velvet-churi-set",
+      "nameBn": "সিঁদুর লাল ও ক্রিস্টাল ভেলভেট চুড়ি সেট",
+      "nameEn": "Scarlet Red & Crystal Velvet Thread Bangle Set",
+      "price": 220,
+      "originalPrice": 250,
+      "discountPercent": 12,
+      "category": "festive-bridal",
+      "categoryBn": "উৎসব ও ব্রাইডাল",
+      "images": [
+        "https://res.cloudinary.com/mdml3orw/image/upload/v1789659555/3.png",
+        "https://res.cloudinary.com/mdml3orw/image/upload/v1789659554/1.png",
+        "https://res.cloudinary.com/mdml3orw/image/upload/v1789659555/5.png"
+      ],
+      "sizes": [
+        "2.4",
+        "2.6",
+        "2.8"
+      ],
+      "colors": [
+        "সিঁদুর লাল (Scarlet Red)",
+        "রক্তলাল ও সোনালী (Crimson Red & Gold)",
+        "গোলাপী ও সোনালী (Rose Pink & Gold)"
+      ],
+      "colorImageMap": {
+        "সিঁদুর লাল (Scarlet Red)": "https://res.cloudinary.com/mdml3orw/image/upload/v1789659555/3.png",
+        "রক্তলাল ও সোনালী (Crimson Red & Gold)": "https://res.cloudinary.com/mdml3orw/image/upload/v1789659554/1.png",
+        "গোলাপী ও সোনালী (Rose Pink & Gold)": "https://res.cloudinary.com/mdml3orw/image/upload/v1789659555/5.png"
+      },
+      "descriptionBn": "উজ্জ্বল সিঁদুর লাল ও সূক্ষ্ম ক্রিস্টাল স্টোনের বর্ডারে তৈরি এই চুড়ি সেট। বিয়ে বাড়ি ও যেকোনো উৎসবমুখর পরিবেশে লাল জামদানি বা বেনারসির সাথে নজরকাড়া রূপ দেয়।",
+      "descriptionEn": "Vibrant scarlet red velvet and silk thread bangles bordered with sparkling crystal accents. Perfect for festive celebrations and wedding ensembles.",
+      "featuresBn": [
+        "মনোমুগ্ধকর ব্রাইডাল সেট",
+        "উজ্জ্বল লাল ভেলভেট ও থ্রেড টাচ",
+        "হাতে আরামদায়ক ব্যাকিং",
+        "সাইজ: ২.৪, ২.৬ ও ২.৮"
+      ],
+      "featuresEn": [
+        "Stunning bridal collection set",
+        "Lustrous red velvet finish",
+        "Comfort-fit lining",
+        "Available sizes: 2.4, 2.6, 2.8"
+      ],
+      "specifications": {
+        "material": "রেশম সুতো, ক্রিস্টাল বিডস ও মেটাল রিং",
+        "bangleSizes": "2.4, 2.6, 2.8",
+        "origin": "ঢাকা, বাংলাদেশ",
+        "customization": "উপলব্ধ",
+        "processingTime": "২-৪ দিন"
+      },
+      "isFeatured": true,
+      "inStock": true,
+      "stockQuantity": 35,
+      "facebookPostUrl": "https://www.facebook.com/profile.php?id=61591073385566"
+    },
+    {
+      "id": "prod-4",
+      "slug": "rani-pink-magenta-silk-thread-churi-set",
+      "nameBn": "রানি গোলাপী ও মেজেন্টা সিল্ক থ্রেড চুড়ি সেট",
+      "nameEn": "Vibrant Rani Pink & Magenta Silk Thread Churi Set",
+      "price": 210,
+      "originalPrice": 240,
+      "discountPercent": 12,
+      "category": "bangle-sets",
+      "categoryBn": "চুড়ি সেট",
+      "images": [
+        "https://res.cloudinary.com/mdml3orw/image/upload/v1789659555/4.png",
+        "https://res.cloudinary.com/mdml3orw/image/upload/v1789659557/11.png",
+        "https://res.cloudinary.com/mdml3orw/image/upload/v1789659555/5.png"
+      ],
+      "sizes": [
+        "2.4",
+        "2.6",
+        "2.8"
+      ],
+      "colors": [
+        "রানি গোলাপী ও মেজেন্টা (Rani Pink & Magenta)",
+        "রেডিয়েন্ট ফিউশিয়া (Radiant Fuchsia)",
+        "গোলাপী ও সোনালী (Rose Pink & Gold)"
+      ],
+      "colorImageMap": {
+        "রানি গোলাপী ও মেজেন্টা (Rani Pink & Magenta)": "https://res.cloudinary.com/mdml3orw/image/upload/v1789659555/4.png",
+        "রেডিয়েন্ট ফিউশিয়া (Radiant Fuchsia)": "https://res.cloudinary.com/mdml3orw/image/upload/v1789659557/11.png",
+        "গোলাপী ও সোনালী (Rose Pink & Gold)": "https://res.cloudinary.com/mdml3orw/image/upload/v1789659555/5.png"
+      },
+      "descriptionBn": "উজ্জ্বল রানি গোলাপী ও মেজেন্টা রঙের নিখুঁত বুননে তৈরি এই চুড়ি সেটটি যেকোনো উৎসব ও মেহেন্দী অনুষ্ঠানে তরুণীদের প্রথম পছন্দ। সুক্ষ্ম জরি ও পুঁতির কাজে হাতকে দেখায় অত্যন্ত কমনীয়।",
+      "descriptionEn": "Vibrant rani pink and magenta silk thread handcrafted bangles with fine embellishments. A colorful and lively set for festive celebrations.",
+      "featuresBn": [
+        "উজ্জ্বল রানি গোলাপী ও মেজেন্টা কম্বো",
+        "সিল্ক থ্রেড ও গোল্ডেন ডট কারুকাজ",
+        "সাইজ: ২.৪, ২.৬ ও ২.৮",
+        "উপহারের জন্য চমৎকার প্যাকেজিং"
+      ],
+      "featuresEn": [
+        "Vibrant rani pink and magenta combination",
+        "Silk thread with golden dot embellishments",
+        "Sizes: 2.4, 2.6, and 2.8",
+        "Gift-ready packaging"
+      ],
+      "specifications": {
+        "material": "প্রিমিয়াম সিল্ক সুতা ও গোল্ড একসেন্ট",
+        "bangleSizes": "2.4, 2.6, 2.8",
+        "origin": "ঢাকা, বাংলাদেশ",
+        "customization": "সম্ভব",
+        "processingTime": "২-৪ দিন"
+      },
+      "isFeatured": true,
+      "inStock": true,
+      "stockQuantity": 40,
+      "facebookPostUrl": "https://www.facebook.com/profile.php?id=61591073385566"
+    },
+    {
+      "id": "prod-5",
+      "slug": "rose-pink-gold-zari-festive-churi-set",
+      "nameBn": "গোলাপী ও সোনালী জারি উৎসব চুড়ি সেট",
+      "nameEn": "Rose Pink & Gold Zari Handcrafted Festive Bangle Set",
+      "price": 220,
+      "originalPrice": 250,
+      "discountPercent": 12,
+      "category": "bangle-sets",
+      "categoryBn": "চুড়ি সেট",
+      "images": [
+        "https://res.cloudinary.com/mdml3orw/image/upload/v1789659555/5.png",
+        "https://res.cloudinary.com/mdml3orw/image/upload/v1789659555/4.png",
+        "https://res.cloudinary.com/mdml3orw/image/upload/v1789659557/11.png"
+      ],
+      "sizes": [
+        "2.4",
+        "2.6",
+        "2.8"
+      ],
+      "colors": [
+        "গোলাপী ও সোনালী জারি (Rose Pink & Gold Zari)",
+        "রানি গোলাপী (Rani Pink)",
+        "রেডিয়েন্ট ফিউশিয়া (Radiant Fuchsia)"
+      ],
+      "colorImageMap": {
+        "গোলাপী ও সোনালী জারি (Rose Pink & Gold Zari)": "https://res.cloudinary.com/mdml3orw/image/upload/v1789659555/5.png",
+        "রানি গোলাপী (Rani Pink)": "https://res.cloudinary.com/mdml3orw/image/upload/v1789659555/4.png",
+        "রেডিয়েন্ট ফিউশিয়া (Radiant Fuchsia)": "https://res.cloudinary.com/mdml3orw/image/upload/v1789659557/11.png"
+      },
+      "descriptionBn": "মিষ্টি গোলাপী রঙ এবং সোনালী জরির বর্ডারে তৈরি এই ঐতিহ্যবাহী উৎসব চুড়ি সেট। সুতা ও পুঁতির কাজের অপূর্ব সমন্বয় আপনার পোশাকের আবেদনকে দ্বিগুণ বাড়িয়ে তুলবে।",
+      "descriptionEn": "Sweet rose pink hue paired with shimmering golden zari work. A traditional bangle set woven with high quality threads and metal foundation.",
+      "featuresBn": [
+        "সুক্ষ্ম গোল্ডেন জরি ও থ্রেড কাজ",
+        "হালকা ও দীর্ঘক্ষণ পরার জন্য আরামদায়ক",
+        "গোলাপী ও হালকা রঙের শাড়ির সাথে মানানসই",
+        "সাইজ: ২.৪, ২.৬ ও ২.৮"
+      ],
+      "featuresEn": [
+        "Delicate gold zari and thread craftsmanship",
+        "Lightweight and comfortable for extended wear",
+        "Complements pink and pastel ethnic outfits",
+        "Sizes: 2.4, 2.6, 2.8"
+      ],
+      "specifications": {
+        "material": "গোলাপী সিল্ক থ্রেড, গোল্ডেন জারি ও মেটাল রিং",
+        "bangleSizes": "2.4, 2.6, 2.8",
+        "origin": "ঢাকা, বাংলাদেশ",
+        "customization": "উপলব্ধ",
+        "processingTime": "২-৪ দিন"
+      },
+      "isFeatured": true,
+      "inStock": true,
+      "stockQuantity": 35,
+      "facebookPostUrl": "https://www.facebook.com/profile.php?id=61591073385566"
+    },
+    {
+      "id": "prod-6",
+      "slug": "vintage-copper-antique-gold-churi-pair",
+      "nameBn": "ভিন্টেজ কপার ও অ্যান্টিক গোল্ড চুড়ি পেয়ার",
+      "nameEn": "Vintage Copper & Antique Gold Handcrafted Bangle Pair",
+      "price": 170,
+      "originalPrice": 195,
+      "discountPercent": 13,
+      "category": "single-pairs",
+      "categoryBn": "সিঙ্গেল পেয়ার (১ জোড়া)",
+      "images": [
+        "https://res.cloudinary.com/mdml3orw/image/upload/v1789659555/6.png",
+        "https://res.cloudinary.com/mdml3orw/image/upload/v1789659555/7.png",
+        "https://res.cloudinary.com/mdml3orw/image/upload/v1789659556/8.png"
+      ],
+      "sizes": [
+        "2.4",
+        "2.6",
+        "2.8"
+      ],
+      "colors": [
+        "কপার ও অ্যান্টিক গোল্ড (Copper & Antique Gold)",
+        "গাঢ় মেরুন ও পার্ল (Deep Maroon & Pearl)",
+        "শ্যাম্পেন গোল্ড (Champagne Gold)"
+      ],
+      "colorImageMap": {
+        "কপার ও অ্যান্টিক গোল্ড (Copper & Antique Gold)": "https://res.cloudinary.com/mdml3orw/image/upload/v1789659555/6.png",
+        "গাঢ় মেরুন ও পার্ল (Deep Maroon & Pearl)": "https://res.cloudinary.com/mdml3orw/image/upload/v1789659555/7.png",
+        "শ্যাম্পেন গোল্ড (Champagne Gold)": "https://res.cloudinary.com/mdml3orw/image/upload/v1789659556/8.png"
+      },
+      "descriptionBn": "আভিজাত্য ও ঐতিহ্যের স্মারক ভিন্টেজ কপার ও অ্যান্টিক গোল্ডেন শেডের এই ১ জোড়া চুড়ি। কটন শাড়ি, তাঁতের শাড়ি বা কুর্তির সাথে ক্যাজুয়াল ও উৎসবের সাজে চমৎকার দেখায়।",
+      "descriptionEn": "Vintage copper and antique gold artisan-crafted bangle pair. A versatile traditional accent suitable for cotton, taant, and festive fusion wear.",
+      "featuresBn": [
+        "১ জোড়া (২ পিস) হ্যান্ডমেড চুড়ি",
+        "ভিন্টেজ কপার ও অ্যান্টিক মেটালিক ফিনিশ",
+        "দৈনন্দিন ও উৎসব উভয় ব্যবহারের উপযোগী",
+        "সাইজ: ২.৪, ২.৬ ও ২.৮"
+      ],
+      "featuresEn": [
+        "1 Pair (2 pieces) of handmade bangles",
+        "Vintage copper & antique metallic finish",
+        "Versatile for casual and festive occasions",
+        "Available in 2.4, 2.6, and 2.8"
+      ],
+      "specifications": {
+        "material": "কপার জরি, প্রিমিয়াম সুতা ও মেটাল রিং",
+        "bangleSizes": "2.4, 2.6, 2.8",
+        "origin": "ঢাকা, বাংলাদেশ",
+        "customization": "উপলব্ধ",
+        "processingTime": "২-৪ দিন হ্যান্ডক্রাফট সময়"
+      },
+      "isFeatured": true,
+      "inStock": true,
+      "stockQuantity": 50,
+      "facebookPostUrl": "https://www.facebook.com/profile.php?id=61591073385566"
+    },
+    {
+      "id": "prod-7",
+      "slug": "deep-maroon-antique-pearl-churi-pair",
+      "nameBn": "গাঢ় মেরুন ও অ্যান্টিক পার্ল চুড়ি পেয়ার",
+      "nameEn": "Deep Maroon & Antique Pearl Accent Churi Pair",
+      "price": 180,
+      "originalPrice": 200,
+      "discountPercent": 10,
+      "category": "single-pairs",
+      "categoryBn": "সিঙ্গেল পেয়ার (১ জোড়া)",
+      "images": [
+        "https://res.cloudinary.com/mdml3orw/image/upload/v1789659555/7.png",
+        "https://res.cloudinary.com/mdml3orw/image/upload/v1789659555/6.png",
+        "https://res.cloudinary.com/mdml3orw/image/upload/v1789659554/1.png"
+      ],
+      "sizes": [
+        "2.4",
+        "2.6",
+        "2.8"
+      ],
+      "colors": [
+        "গাঢ় মেরুন ও সোনালী (Deep Maroon & Gold)",
+        "কপার ও ব্রোঞ্জ (Copper & Bronze)",
+        "রক্তলাল ব্রাইডাল (Crimson Red)"
+      ],
+      "colorImageMap": {
+        "গাঢ় মেরুন ও সোনালী (Deep Maroon & Gold)": "https://res.cloudinary.com/mdml3orw/image/upload/v1789659555/7.png",
+        "কপার ও ব্রোঞ্জ (Copper & Bronze)": "https://res.cloudinary.com/mdml3orw/image/upload/v1789659555/6.png",
+        "রক্তলাল ব্রাইডাল (Crimson Red)": "https://res.cloudinary.com/mdml3orw/image/upload/v1789659554/1.png"
+      },
+      "descriptionBn": "গাঢ় রয়্যাল মেরুন রঙের জমিনে সোনালী পার্ল কারুকাজে তৈরি এই ১ জোড়া চুড়ি। বিয়ে বা পারিবারিক অনুষ্ঠানে অন্য চুড়ির সাথে সাইড চুড়ি হিসেবে কিংবা সিঙ্গেল পেয়ার হিসেবে পরতে দারুণ লাগে।",
+      "descriptionEn": "Deep maroon handcrafted bangles accented with pearl and antique gold trim. Can be worn as statement kadas or accent side bangles.",
+      "featuresBn": [
+        "১ জোড়া (২ পিস) গাঢ় মেরুন চুড়ি",
+        "মুক্তার পুতি ও মসৃণ ফিনিশ",
+        "সাইজ: ২.৪, ২.৬ ও ২.৮"
+      ],
+      "featuresEn": [
+        "1 Pair (2 pieces) deep maroon bangles",
+        "Pearl bead accents with smooth comfortable lining",
+        "Sizes: 2.4, 2.6, and 2.8"
+      ],
+      "specifications": {
+        "material": "মেরুন সিল্ক থ্রেড, অ্যান্টিক বিডস ও মেটাল কোর",
+        "bangleSizes": "2.4, 2.6, 2.8",
+        "origin": "ঢাকা, বাংলাদেশ",
+        "customization": "উপলব্ধ",
+        "processingTime": "২-৪ দিন"
+      },
+      "isFeatured": false,
+      "inStock": true,
+      "stockQuantity": 35,
+      "facebookPostUrl": "https://www.facebook.com/profile.php?id=61591073385566"
+    },
+    {
+      "id": "prod-8",
+      "slug": "champagne-gold-ivory-bridal-stack",
+      "nameBn": "শ্যাম্পেন গোল্ড ও আইভরি ব্রাইডাল চুড়ি স্ট্যাক",
+      "nameEn": "Deluxe Champagne Gold & Ivory Bridal Bangle Stack (12 Pcs)",
+      "price": 480,
+      "originalPrice": 560,
+      "discountPercent": 14,
+      "category": "festive-bridal",
+      "categoryBn": "উৎসব ও ব্রাইডাল",
+      "images": [
+        "https://res.cloudinary.com/mdml3orw/image/upload/v1789659556/8.png",
+        "https://res.cloudinary.com/mdml3orw/image/upload/v1789659557/10.png",
+        "https://res.cloudinary.com/mdml3orw/image/upload/v1789659554/1.png"
+      ],
+      "sizes": [
+        "2.4",
+        "2.6",
+        "2.8"
+      ],
+      "colors": [
+        "শ্যাম্পেন গোল্ড ও আইভরি (Champagne Gold & Ivory)",
+        "টেরাকোটা ও অলিভ (Terracotta & Olive)",
+        "রক্তলাল ব্রাইডাল (Crimson Red)"
+      ],
+      "colorImageMap": {
+        "শ্যাম্পেন গোল্ড ও আইভরি (Champagne Gold & Ivory)": "https://res.cloudinary.com/mdml3orw/image/upload/v1789659556/8.png",
+        "টেরাকোটা ও অলিভ (Terracotta & Olive)": "https://res.cloudinary.com/mdml3orw/image/upload/v1789659557/10.png",
+        "রক্তলাল ব্রাইডাল (Crimson Red)": "https://res.cloudinary.com/mdml3orw/image/upload/v1789659554/1.png"
+      },
+      "descriptionBn": "বিয়ে, রিসেপশন কিংবা এনগেজমেন্টের কনেদের জন্য স্নেহময়ীর বিশেষ শ্যাম্পেন গোল্ড ও আইভরি রঙের ব্রাইডাল চুড়ি স্ট্যাক। এতে রয়েছে প্রিমিয়াম সোনালি ও অফ-হোয়াইট থ্রেড ওয়ার্কের সম্পূর্ণ রাজকীয় সেট।",
+      "descriptionEn": "Deluxe champagne gold and ivory bridal bangle stack designed for modern brides. Subtle, elegant shimmer ideal for white, pastel, and cream bridal lehengas.",
+      "featuresBn": [
+        "সম্পূর্ণ ব্রাইডাল স্ট্যাক কালেকশন",
+        "আইভরি ও শ্যাম্পেন গোল্ড প্রিমিয়াম কারুকাজ",
+        "বিয়ে ও রিসেপশনের বিশেষ আকর্ষণ",
+        "সাইজ: ২.৪, ২.৬ ও ২.৮"
+      ],
+      "featuresEn": [
+        "Complete bridal bangle stack",
+        "Ivory and champagne gold craftsmanship",
+        "Perfect for wedding, engagement & reception brides",
+        "Sizes: 2.4, 2.6, and 2.8"
+      ],
+      "specifications": {
+        "material": "প্রিমিয়াম সিল্ক থ্রেড, ব্রাইডাল জারি ও হেভি মেটাল কোর",
+        "bangleSizes": "2.4, 2.6, 2.8",
+        "origin": "ঢাকা, বাংলাদেশ",
+        "customization": "রঙ কাস্টমাইজেশন উপলব্ধ",
+        "processingTime": "২-৪ দিন"
+      },
+      "isFeatured": true,
+      "inStock": true,
+      "stockQuantity": 25,
+      "facebookPostUrl": "https://www.facebook.com/profile.php?id=61591073385566"
+    },
+    {
+      "id": "prod-9",
+      "slug": "jet-black-ruby-red-zari-churi-set",
+      "nameBn": "জেট ব্ল্যাক ও রুবি রেড জারি চুড়ি সেট",
+      "nameEn": "Jet Black & Ruby Red Zari Handcrafted Bangle Set",
+      "price": 230,
+      "originalPrice": 260,
+      "discountPercent": 12,
+      "category": "bangle-sets",
+      "categoryBn": "চুড়ি সেট",
+      "images": [
+        "https://res.cloudinary.com/mdml3orw/image/upload/v1789659556/9.png",
+        "https://res.cloudinary.com/mdml3orw/image/upload/v1789659555/2.png",
+        "https://res.cloudinary.com/mdml3orw/image/upload/v1789659555/3.png"
+      ],
+      "sizes": [
+        "2.4",
+        "2.6",
+        "2.8"
+      ],
+      "colors": [
+        "জেট ব্ল্যাক ও রুবি রেড (Jet Black & Ruby Red)",
+        "রয়েল ব্লু ও অ্যান্টিক জারি (Royal Blue & Antique Zari)",
+        "সিঁদুর লাল ভেলভেট (Scarlet Red Velvet)"
+      ],
+      "colorImageMap": {
+        "জেট ব্ল্যাক ও রুবি রেড (Jet Black & Ruby Red)": "https://res.cloudinary.com/mdml3orw/image/upload/v1789659556/9.png",
+        "রয়েল ব্লু ও অ্যান্টিক জারি (Royal Blue & Antique Zari)": "https://res.cloudinary.com/mdml3orw/image/upload/v1789659555/2.png",
+        "সিঁদুর লাল ভেলভেট (Scarlet Red Velvet)": "https://res.cloudinary.com/mdml3orw/image/upload/v1789659555/3.png"
+      },
+      "descriptionBn": "গাঢ় জেট ব্ল্যাক ও রুবি রেড রঙের বৈপরীত্যে তৈরি অত্যন্ত স্টাইলিশ হ্যান্ডক্রাফটেড চুড়ি সেট। কালো, লাল ও গোল্ডেন কম্বিনেশনের যেকোনো শাড়ি ও কুর্তির সাথে হাতকে দেয় অনন্য বোল্ড লুক।",
+      "descriptionEn": "Jet black base contrasted with ruby red thread work and antique gold trim. Bold and stylish set for modern ethnic fashion.",
+      "featuresBn": [
+        "ব্ল্যাক ও রুবি রেড কন্ট্রাস্ট কারুকাজ",
+        "কালার-ফাস্ট প্রিমিয়াম থ্রেড",
+        "সাইজ: ২.৪, ২.৬ ও ২.৮",
+        "আরামদায়ক ও টেকসই মেটাল বেস"
+      ],
+      "featuresEn": [
+        "Black and ruby red contrast finish",
+        "Color-fast premium silk thread",
+        "Sizes: 2.4, 2.6, and 2.8",
+        "Comfortable durable metal base"
+      ],
+      "specifications": {
+        "material": "জেট ব্ল্যাক সিল্ক সুতো, রুবি থ্রেড ও মেটাল রিং",
+        "bangleSizes": "2.4, 2.6, 2.8",
+        "origin": "ঢাকা, বাংলাদেশ",
+        "customization": "উপলব্ধ",
+        "processingTime": "২-৪ দিন"
+      },
+      "isFeatured": true,
+      "inStock": true,
+      "stockQuantity": 35,
+      "facebookPostUrl": "https://www.facebook.com/profile.php?id=61591073385566"
+    },
+    {
+      "id": "prod-10",
+      "slug": "customized-outfit-matching-bangle-set",
+      "nameBn": "কাস্টমাইজড ম্যাচিং চুড়ি সেট (Customize Your Own Set)",
+      "nameEn": "Customized Outfit-Matching Handcrafted Bangle Set",
+      "price": 250,
+      "originalPrice": 300,
+      "discountPercent": 16,
+      "category": "customized",
+      "categoryBn": "কাস্টমাইজড সেট",
+      "images": [
+        "https://res.cloudinary.com/mdml3orw/image/upload/v1789659557/10.png",
+        "https://res.cloudinary.com/mdml3orw/image/upload/v1789659557/12.png",
+        "https://res.cloudinary.com/mdml3orw/image/upload/v1789659555/4.png"
+      ],
+      "sizes": [
+        "2.4",
+        "2.6",
+        "2.8"
+      ],
+      "colors": [
+        "আপনার পছন্দের যেকোনো রঙ (Custom Color)",
+        "মেহেদি সবুজ ও রাস্ট রেড (Mehendi Green & Rust Red)",
+        "রানি গোলাপী ও মেজেন্টা (Rani Pink & Magenta)"
+      ],
+      "colorImageMap": {
+        "আপনার পছন্দের যেকোনো রঙ (Custom Color)": "https://res.cloudinary.com/mdml3orw/image/upload/v1789659557/10.png",
+        "মেহেদি সবুজ ও রাস্ট রেড (Mehendi Green & Rust Red)": "https://res.cloudinary.com/mdml3orw/image/upload/v1789659557/12.png",
+        "রানি গোলাপী ও মেজেন্টা (Rani Pink & Magenta)": "https://res.cloudinary.com/mdml3orw/image/upload/v1789659555/4.png"
+      },
+      "descriptionBn": "স্নেহময়ীর ফ্ল্যাগশিপ কাস্টমাইজেশন সার্ভিস! আপনার পোশাক, শাড়ি বা লেহেঙ্গার রঙের সাথে হুবহু মিলিয়ে তৈরি করুন নিজের পছন্দের চুড়ি সেট। অর্ডার করার পর আমাদের WhatsApp-এ (880 1701-841905) আপনার ড্রেসের ছবি পাঠান।",
+      "descriptionEn": "Snehomoyi’s signature outfit customization service! Match your bangles precisely to your dress, saree, or lehenga fabric color. Send dress photos directly to our WhatsApp (880 1701-841905).",
+      "featuresBn": [
+        "ড্রেস বা শাড়ির রঙের সাথে ১০০% কালার ম্যাচিং",
+        "আপনার পছন্দমতো জোড়া ও ডিজাইন তৈরি",
+        "অর্ডার কনফার্ম করার পর স্পেশাল প্রসেসিং",
+        "হোয়াটসঅ্যাপে সরাসরি পরামর্শ সুবিধা (880 1701-841905)"
+      ],
+      "featuresEn": [
+        "100% color matching to your specific outfit",
+        "Personalized pair count and design preferences",
+        "Dedicated artisan crafting upon order confirmation",
+        "Direct WhatsApp consultation (880 1701-841905)"
+      ],
+      "specifications": {
+        "material": "কাস্টম থ্রেড, মেটাল ফ্রেম ও পছন্দসই বিডস",
+        "bangleSizes": "2.4, 2.6, 2.8",
+        "origin": "ঢাকা, বাংলাদেশ",
+        "customization": "সম্পূর্ণ কাস্টমাইজেবল",
+        "processingTime": "২-৪ দিন কারিগরি সময়"
+      },
+      "isFeatured": true,
+      "inStock": true,
+      "stockQuantity": 100,
+      "facebookPostUrl": "https://www.facebook.com/profile.php?id=61591073385566"
+    },
+    {
+      "id": "prod-11",
+      "slug": "radiant-fuchsia-purple-silk-thread-set",
+      "nameBn": "রেডিয়েন্ট ফিউশিয়া ও পার্পল সিল্ক থ্রেড চুড়ি সেট",
+      "nameEn": "Radiant Fuchsia & Purple Handcrafted Silk Thread Churi Set",
+      "price": 220,
+      "originalPrice": 250,
+      "discountPercent": 12,
+      "category": "bangle-sets",
+      "categoryBn": "চুড়ি সেট",
+      "images": [
+        "https://res.cloudinary.com/mdml3orw/image/upload/v1789659557/11.png",
+        "https://res.cloudinary.com/mdml3orw/image/upload/v1789659555/4.png",
+        "https://res.cloudinary.com/mdml3orw/image/upload/v1789659555/5.png"
+      ],
+      "sizes": [
+        "2.4",
+        "2.6",
+        "2.8"
+      ],
+      "colors": [
+        "ফিউশিয়া ও পার্পল (Fuchsia & Purple)",
+        "রানি গোলাপী (Rani Pink)",
+        "গোলাপী ও সোনালী (Rose Pink & Gold)"
+      ],
+      "colorImageMap": {
+        "ফিউশিয়া ও পার্পল (Fuchsia & Purple)": "https://res.cloudinary.com/mdml3orw/image/upload/v1789659557/11.png",
+        "রানি গোলাপী (Rani Pink)": "https://res.cloudinary.com/mdml3orw/image/upload/v1789659555/4.png",
+        "গোলাপী ও সোনালী (Rose Pink & Gold)": "https://res.cloudinary.com/mdml3orw/image/upload/v1789659555/5.png"
+      },
+      "descriptionBn": "উজ্জ্বল ফিউশিয়া পার্পল ও গোল্ডেন শিমারের চমৎকার সংমিশ্রণ। আধুনিক তরুণী ও বোনদের জন্য উৎসব ও পার্টিতে পরার এক অপূর্ব থ্রেড চুড়ি কালেকশন।",
+      "descriptionEn": "Radiant fuchsia purple silk thread bangles woven with golden accents. A contemporary vibrant choice for festive parties and gatherings.",
+      "featuresBn": [
+        "উজ্জ্বল ফিউশিয়া ও পার্পল শেড",
+        "সূক্ষ্ম গোল্ডেন ডট কারুকাজ",
+        "সাইজ: ২.৪, ২.৬ ও ২.৮",
+        "আরামদায়ক ব্যাকিং"
+      ],
+      "featuresEn": [
+        "Radiant fuchsia and purple shade",
+        "Delicate golden dot details",
+        "Sizes: 2.4, 2.6, and 2.8",
+        "Comfortable backing"
+      ],
+      "specifications": {
+        "material": "ফিউশিয়া সিল্ক থ্রেড, মেটালিক বর্ডার ও বিডস",
+        "bangleSizes": "2.4, 2.6, 2.8",
+        "origin": "ঢাকা, বাংলাদেশ",
+        "customization": "উপলব্ধ",
+        "processingTime": "২-৪ দিন"
+      },
+      "isFeatured": false,
+      "inStock": true,
+      "stockQuantity": 30,
+      "facebookPostUrl": "https://www.facebook.com/profile.php?id=61591073385566"
+    },
+    {
+      "id": "prod-12",
+      "slug": "mehendi-green-rust-red-bridal-churi-set",
+      "nameBn": "মেহেদি সবুজ ও রাস্ট রেড ব্রাইডাল চুড়ি সেট",
+      "nameEn": "Mehendi Olive Green & Rust Red Handcrafted Bridal Bangle Set",
+      "price": 260,
+      "originalPrice": 300,
+      "discountPercent": 13,
+      "category": "festive-bridal",
+      "categoryBn": "উৎসব ও ব্রাইডাল",
+      "images": [
+        "https://res.cloudinary.com/mdml3orw/image/upload/v1789659557/12.png",
+        "https://res.cloudinary.com/mdml3orw/image/upload/v1789659557/10.png",
+        "https://res.cloudinary.com/mdml3orw/image/upload/v1789659554/1.png"
+      ],
+      "sizes": [
+        "2.4",
+        "2.6",
+        "2.8"
+      ],
+      "colors": [
+        "মেহেদি সবুজ ও রাস্ট রেড (Mehendi Green & Rust Red)",
+        "টেরাকোটা ও অলিভ (Terracotta & Olive)",
+        "রক্তলাল ও সোনালী (Crimson Red & Gold)"
+      ],
+      "colorImageMap": {
+        "মেহেদি সবুজ ও রাস্ট রেড (Mehendi Green & Rust Red)": "https://res.cloudinary.com/mdml3orw/image/upload/v1789659557/12.png",
+        "টেরাকোটা ও অলিভ (Terracotta & Olive)": "https://res.cloudinary.com/mdml3orw/image/upload/v1789659557/10.png",
+        "রক্তলাল ও সোনালী (Crimson Red & Gold)": "https://res.cloudinary.com/mdml3orw/image/upload/v1789659554/1.png"
+      },
+      "descriptionBn": "গায়ে হলুদ, মেহেদি নাইট ও ট্র্যাডিশনাল উৎসবের জন্য স্পেশাল মেহেদি সবুজ ও রাস্ট রেড সুতার নিখুঁত বোনা ব্রাইডাল চুড়ি সেট। এর বর্ডারে রয়েছে উজ্জ্বল জরি ও অ্যান্টিক ফিনিশ।",
+      "descriptionEn": "Mehendi olive green and rustic red handcrafted bridal bangle set. An authentic choice for Gaye Holud, mehendi ceremonies, and festive occasions.",
+      "featuresBn": [
+        "মেহেদি ও গায়ে হলুদের স্পেশাল ব্রাইডাল সেট",
+        "প্রাকৃতিক মেহেদি সবুজ ও রাস্ট রেড কম্বো",
+        "সাইজ: ২.৪, ২.৬ ও ২.৮",
+        "হাতে আরামদায়ক ফিনিশ"
+      ],
+      "featuresEn": [
+        "Special bridal set for Gaye Holud & Mehendi nights",
+        "Natural mehendi green and rustic red tone",
+        "Sizes: 2.4, 2.6, and 2.8",
+        "Comfort-fit finish"
+      ],
+      "specifications": {
+        "material": "মেহেদি সবুজ সিল্ক থ্রেড, রাস্ট রেড থ্রেড ও গোল্ডেন জরি",
+        "bangleSizes": "2.4, 2.6, 2.8",
+        "origin": "ঢাকা, বাংলাদেশ",
+        "customization": "উপলব্ধ",
+        "processingTime": "২-৪ দিন"
+      },
+      "isFeatured": true,
+      "inStock": true,
+      "stockQuantity": 40,
+      "facebookPostUrl": "https://www.facebook.com/profile.php?id=61591073385566"
+    }
+  ],
+  "orders": [
+    {
+      "id": "SN-1087",
+      "createdAt": "2026-09-17T15:14:54.761Z",
+      "customerName": "FrontLine",
+      "phone": "01533625253",
+      "address": "3r3r",
+      "division": "Dhaka",
+      "district": "ঢাকা সিটি ও মেট্রোপলিটন",
+      "deliveryArea": "inside_dhaka",
+      "deliveryCharge": 70,
+      "items": [
+        {
+          "productId": "prod-6",
+          "productName": "কাস্টমাইজড ম্যাচিং চুড়ি সেট (Customize Your Own Set)",
+          "productSlug": "customized-outfit-matching-bangle-set",
+          "image": "https://images.unsplash.com/photo-1611591475152-473523a10fb8?w=800&auto=format&fit=crop&q=80",
+          "size": "2.6",
+          "quantity": 1,
+          "unitPrice": 250,
+          "totalPrice": 250
+        }
+      ],
+      "subtotal": 250,
+      "totalAmount": 320,
+      "paymentMethod": "bkash",
+      "status": "Pending"
+    },
+    {
+      "id": "SN-1082",
+      "createdAt": "2026-09-17T13:13:00.220Z",
+      "customerName": "নুসরাত জাহান (Nusrat Jahan)",
+      "phone": "01712345678",
+      "address": "বাড়ি ১২, রোড ৫, সেক্টর ৭, উত্তরা, ঢাকা",
+      "division": "Dhaka",
+      "district": "ঢাকা সিটি ও মেট্রোপলিটন",
+      "deliveryArea": "inside_dhaka",
+      "deliveryCharge": 70,
+      "items": [
+        {
+          "productId": "prod-1",
+          "productName": "উৎসব কালেকশন লাল ও সবুজ পুঁতি চুড়ি সেট",
+          "productSlug": "festive-red-green-beaded-churi-set",
+          "image": "https://images.unsplash.com/photo-1611591475152-473523a10fb8?w=800&auto=format&fit=crop&q=80",
+          "size": "2.6",
+          "quantity": 2,
+          "unitPrice": 220,
+          "totalPrice": 440
+        }
+      ],
+      "subtotal": 440,
+      "totalAmount": 510,
+      "paymentMethod": "cod",
+      "status": "Shipped",
+      "orderNotes": "দ্রুত ডেলিভারি দিলে উপকৃত হবো। লাল কালার গাঢ় রাখবেন।"
+    },
+    {
+      "id": "SN-1083",
+      "createdAt": "2026-09-17T10:13:00.220Z",
+      "customerName": "সাদিয়া আফরিন (Sadia Afrin)",
+      "phone": "01898765432",
+      "address": "হোল্ডিং ৪৫/বি, জিইসি মোড়, চকবাজার, চট্টগ্রাম",
+      "division": "Chittagong",
+      "district": "চট্টগ্রাম",
+      "deliveryArea": "outside_dhaka",
+      "deliveryCharge": 130,
+      "items": [
+        {
+          "productId": "prod-6",
+          "productName": "কাস্টমাইজড ম্যাচিং চুড়ি সেট (Customize Your Own Set)",
+          "productSlug": "customized-outfit-matching-bangle-set",
+          "image": "https://images.unsplash.com/photo-1611591475152-473523a10fb8?w=800&auto=format&fit=crop&q=80",
+          "size": "2.4",
+          "quantity": 1,
+          "unitPrice": 250,
+          "totalPrice": 250
+        },
+        {
+          "productId": "prod-2",
+          "productName": "রয়েল ব্ল্যাক ও সোনালী হ্যান্ডক্রাফটেড চুড়ি পেয়ার",
+          "productSlug": "royal-black-gold-handcrafted-churi-pair",
+          "image": "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?w=800&auto=format&fit=crop&q=80",
+          "size": "2.4",
+          "quantity": 1,
+          "unitPrice": 160,
+          "totalPrice": 160
+        }
+      ],
+      "subtotal": 410,
+      "totalAmount": 540,
+      "paymentMethod": "cod",
+      "status": "Processing",
+      "orderNotes": "নেভি ব্লু ও সিলভার জরি শাড়ির সাথে ম্যাচিং চাওয়া হয়েছে।"
+    },
+    {
+      "id": "SN-1084",
+      "createdAt": "2026-09-17T03:13:00.220Z",
+      "customerName": "তাহমিনা আক্তার (Tahmina Akter)",
+      "phone": "01911223344",
+      "address": "হাউজ ১৭, রোড ২, বনশ্রী, রামপুরা, ঢাকা",
+      "division": "Dhaka",
+      "district": "ঢাকা সিটি ও মেট্রোপলিটন",
+      "deliveryArea": "inside_dhaka",
+      "deliveryCharge": 70,
+      "items": [
+        {
+          "productId": "prod-8",
+          "productName": "স্নেহময়ী ব্রাইডাল ও উৎসব স্পেশাল চুড়ি বক্স",
+          "productSlug": "snehomoyi-bridal-festive-deluxe-churi-box",
+          "image": "https://images.unsplash.com/photo-1611591475152-473523a10fb8?w=800&auto=format&fit=crop&q=80",
+          "size": "2.6",
+          "quantity": 1,
+          "unitPrice": 550,
+          "totalPrice": 550
+        }
+      ],
+      "subtotal": 550,
+      "totalAmount": 620,
+      "paymentMethod": "cod",
+      "status": "Confirmed",
+      "orderNotes": "উপহারের বক্স ভালো করে বাবল র‍্যাপ করে পাঠাবেন প্লিজ।"
+    },
+    {
+      "id": "SN-1085",
+      "createdAt": "2026-09-17T14:48:00.220Z",
+      "customerName": "মৌমিতা রায় (Moumita Roy)",
+      "phone": "01655667788",
+      "address": "কলেজ রোড, জিন্দা বাজার, সিলেট",
+      "division": "Sylhet",
+      "district": "সিলেট",
+      "deliveryArea": "outside_dhaka",
+      "deliveryCharge": 130,
+      "items": [
+        {
+          "productId": "prod-3",
+          "productName": "ঐতিহ্যবাহী লাল-সাদা উৎসব চুড়ি সেট",
+          "productSlug": "traditional-red-white-festive-churi-set",
+          "image": "https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?w=800&auto=format&fit=crop&q=80",
+          "size": "2.8",
+          "quantity": 2,
+          "unitPrice": 200,
+          "totalPrice": 400
+        }
+      ],
+      "subtotal": 400,
+      "totalAmount": 530,
+      "paymentMethod": "cod",
+      "status": "Pending"
+    }
+  ],
+  "settings": {
+    "storeName": "Snehomoyi",
+    "storeNameBn": "স্নেহময়ী",
+    "storeTaglineBn": "হাতে তৈরি অনন্য চুড়ি ও উৎসব কালেকশন",
+    "facebookUrl": "https://www.facebook.com/profile.php?id=61591073385566",
+    "phone": "880 1701-841905",
+    "location": "ঢাকা, বাংলাদেশ (Dhaka, Bangladesh)",
+    "deliveryInsideDhaka": 70,
+    "deliveryOutsideDhaka": 130,
+    "freeDeliveryThreshold": 1500,
+    "bkashNumber": "01701-841905 (Personal / Send Money)",
+    "processingTimeBn": "হাতে তৈরি করতে ২-৪ দিন সময় লাগে, এরপর কুরিয়ারে পাঠানো হয়",
+    "announcementBn": "✨ সারা বাংলাদেশে ক্যাশ অন ডেলিভারি সুবিধা! সাইজ ২.৪, ২.৬, ২.৮ উপলব্ধ। ড্রেসের সাথে ম্যাচিং অর্ডার করতে সরাসরি অর্ডার বা WhatsApp করুন।"
+  }
+}

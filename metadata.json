@@ -1,0 +1,6 @@
+{
+  "name": "Snehomoyi - Bangladeshi E-Commerce Store",
+  "description": "Authentic handcrafted bangles (churi) and festive jewelry collection from Snehomoyi Facebook page with Cash on Delivery nationwide in Bangladesh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

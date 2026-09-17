@@ -1,0 +1,36 @@
+@import "tailwindcss";
+
+html, body {
+  font-family: 'Plus Jakarta Sans', 'Hind Siliguri', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  overflow-x: hidden;
+  width: 100%;
+  max-width: 100vw;
+  -webkit-text-size-adjust: 100%;
+}
+
+@keyframes ticker {
+  0% {
+    transform: translate3d(0, 0, 0);
+  }
+  100% {
+    transform: translate3d(-50%, 0, 0);
+  }
+}
+
+.animate-ticker {
+  display: inline-flex;
+  white-space: nowrap;
+  will-change: transform;
+  animation: ticker 28s linear infinite;
+}
+
+.animate-ticker:hover,
+.animate-ticker:active {
+  animation-play-state: paused;
+}
+
+/* Ensure images don't cause flex overflow */
+img {
+  max-width: 100%;
+  height: auto;
+}
