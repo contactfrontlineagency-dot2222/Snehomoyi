@@ -90,7 +90,7 @@ export const Footer: React.FC<FooterProps> = ({ onOpenSizeGuide }) => {
               <img 
                 src="/logo.png" 
                 alt="Snehomoyi Logo" 
-                className="w-12 h-12 rounded-full object-cover shadow-md border-2 border-amber-400 bg-rose-950" 
+                className="w-12 h-12 rounded-full object-cover shadow-sm border-2 border-stone-300 bg-[#ede5dc]" 
               />
               <div>
                 <h3 className="text-xl font-bold text-white font-serif">স্নেহময়ী (Snehomoyi)</h3>

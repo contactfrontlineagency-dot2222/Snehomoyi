@@ -113,7 +113,7 @@ export const Navbar: React.FC = () => {
               <img 
                 src="/logo.png" 
                 alt="Snehomoyi Logo" 
-                className="w-10 h-10 sm:w-13 sm:h-13 rounded-full object-cover shadow-md border-2 border-amber-300 group-hover:scale-105 transition-transform duration-200 bg-rose-900 shrink-0"
+                className="w-10 h-10 sm:w-13 sm:h-13 rounded-full object-cover shadow-xs border-2 border-stone-200/90 group-hover:scale-105 transition-transform duration-200 bg-[#ede5dc] shrink-0"
                 onError={(e) => {
                   // Fallback if image load error
                   (e.target as HTMLElement).style.display = 'none';
